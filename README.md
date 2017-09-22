@@ -1,0 +1,2 @@
+# obracun-zarada
+Knjigovodstvena aplikacija
